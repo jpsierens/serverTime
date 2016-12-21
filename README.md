@@ -1,0 +1,1 @@
+minimal Socket.IO application that constantly updates the browser in real time with the server’s UTC time.
